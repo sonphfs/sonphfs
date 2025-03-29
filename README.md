@@ -29,4 +29,4 @@ I'm a DevOps engineer with experience in cloud infrastructure, automation, and C
 - **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
 
 ## 📫 Connect with Me
-- LinkedIn: [sonph](https://www.linkedin.com/in/sonphfs/)
+- LinkedIn: [sonphfs](https://www.linkedin.com/in/sonphfs/)
